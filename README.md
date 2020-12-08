@@ -1,4 +1,4 @@
-# development is on going .
+# development is on going ...........
 # find endpoint and secret from js files.
 
 for running this tool please make sure to add your token at line number 8 and remove braces this two '<>'
