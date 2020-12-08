@@ -16,3 +16,4 @@ cat $sub_filename | httpx --silent --follow-redirects -threads 400 | xargs -I% -
 cat $sub_filename | httpx --silent --follow-redirects -threads 400 --status-code | grep "200" | tee live_sub.txt
 gospider -S live_sub.txt -d 3 -c 300 | tee ans2.txt
 
+
