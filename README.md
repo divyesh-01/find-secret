@@ -1,14 +1,5 @@
 # find endpoint and secret from js files.
 
-install
+for running this tool please make sure to add your token at line number  and remove braces this two '<>'
 
-https://github.com/gwen001/github-search
-
-https://github.com/hakluke/hakrawler        
-
-sudo apt-get install jq            
-
-send github-endpoint.py and hakrawler to /usr/bin
-
-
-
+also make sure you have installed hakrawler, jq, github-endpoint.py from github-search tool and move them to /usr/bin
